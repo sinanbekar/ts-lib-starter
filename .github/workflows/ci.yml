@@ -50,7 +50,7 @@ jobs:
       - name: Typecheck
         run: pnpm test:types
 
-  unit:
+  test:
     runs-on: ${{ matrix.os }}
 
     strategy:
