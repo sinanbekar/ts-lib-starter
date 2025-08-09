@@ -4,4 +4,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2022 [Sinan Bekar](https://github.com/sinanbekar)
+[MIT](./LICENSE) License © 2025 [Sinan Bekar](https://github.com/sinanbekar)
